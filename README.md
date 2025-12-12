@@ -50,9 +50,6 @@ data
 │   ├── ...
 ├── msmt17
 └── cuhk03
-Bash```
-Market1501: Collected from 6 cameras, containing 1,501 identities.
-DukeMTMC-reID: Contains 36,411 images from 8 cameras.
-MSMT17: A larger dataset resembling real scenarios with 126,441 images.
+
 
 
