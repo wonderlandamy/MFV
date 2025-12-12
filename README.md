@@ -39,7 +39,7 @@ pip install -r requirements.txt
 We evaluate our method on four large-scale benchmarks: Market1501, DukeMTMC-reID, CUHK03-NP, and MSMT17.
 
 Please download the datasets and organize them as follows:
-
+```Bash
 data
 ├── market1501
 │   ├── bounding_box_train
@@ -50,7 +50,7 @@ data
 │   ├── ...
 ├── msmt17
 └── cuhk03
-
+Bash```
 Market1501: Collected from 6 cameras, containing 1,501 identities.
 DukeMTMC-reID: Contains 36,411 images from 8 cameras.
 MSMT17: A larger dataset resembling real scenarios with 126,441 images.
