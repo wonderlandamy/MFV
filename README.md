@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
-This is the official implementation of the paper **"Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms"**.
+This is the official implementation of the paper **"Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms"** in The Visual Computer.
 
 ## Abstract
 
