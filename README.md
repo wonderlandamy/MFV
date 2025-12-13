@@ -1,4 +1,4 @@
-# MFV: Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms
+# Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg)](https://pytorch.org/)
