@@ -1,11 +1,10 @@
-# Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms
+# MFV: A Multi-scale Fusion Visual Framework with Stratified Deep Feature Aggregation and External Attention for Person Re-Identification
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
-This is the official implementation of the paper **"Enhanced Person Re-Identification through Multi-Scale Feature Fusion and Attention Mechanisms"** in The Visual Computer.
-
+This is the official implementation of the paper **"MFV: A Multi-scale Fusion Visual Framework with Stratified Deep Feature Aggregation and External Attention for Person Re-Identification"** in Journal of Electronic Imaging
 ## Abstract
 
 The field of person re-identification (Re-ID) has witnessed significant advancements with the integration of deep learning technologies. This paper introduces a **Multi-scale Fusion Visual (MFV)** framework that leverages the strengths of both Transformer models and Convolutional Neural Networks (CNNs) to enhance feature extraction and aggregation.
